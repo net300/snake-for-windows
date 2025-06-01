@@ -1,0 +1,1 @@
+clang main.c -o snake.exe -static
